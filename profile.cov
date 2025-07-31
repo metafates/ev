@@ -1,0 +1,21 @@
+mode: set
+github.com/metafates/ev/ev.go:15.50,20.2 3 1
+github.com/metafates/ev/ev.go:22.43,27.8 4 1
+github.com/metafates/ev/ev.go:27.8,29.3 1 1
+github.com/metafates/ev/ev.go:31.2,33.13 2 1
+github.com/metafates/ev/ev.go:42.41,43.25 1 1
+github.com/metafates/ev/ev.go:43.25,45.9 2 1
+github.com/metafates/ev/ev.go:45.9,47.4 1 1
+github.com/metafates/ev/ev.go:50.2,52.13 2 1
+github.com/metafates/ev/ev.go:55.30,55.61 1 1
+github.com/metafates/ev/ev.go:57.34,59.9 2 1
+github.com/metafates/ev/ev.go:59.9,61.3 1 1
+github.com/metafates/ev/ev.go:63.2,63.14 1 1
+github.com/metafates/ev/ev.go:66.25,68.9 2 1
+github.com/metafates/ev/ev.go:68.9,70.3 1 1
+github.com/metafates/ev/ev.go:72.2,72.14 1 1
+github.com/metafates/ev/ev.go:75.36,77.15 2 1
+github.com/metafates/ev/ev.go:77.15,81.3 2 1
+github.com/metafates/ev/ev.go:83.2,86.16 3 1
+github.com/metafates/ev/ev.go:86.16,90.3 2 1
+github.com/metafates/ev/ev.go:92.2,92.18 1 1
